@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - my portfolio</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<header>
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  
+</header>
+<div class="col-jumbo-6"></div>
+  <ui class="nav nav-pills">
+    <li>
+      <a href="#" class="text">Steven Cloutier</a>
+    </li><li class="pull-right">
+      <a href="#p4">Contact Me</a>
+    </li><li class="pull-right">
+    <a href="#p3">Portfolio</a></li>
+    <li class="pull-right">
+      <a href="#p2">ABout Me</a>
+    </li>
+  </ui>
+<div class="PageOne">
+  <div class="block text-center">
+  <h1>Lucid Studio</h1>
+    <h3>reaching for the stars</h3>
+  </div>
+  <div class="btnlist text-center">
+    <a class="btn btn-default"a href="https://github.com/steveo1975"target='blank'>Github</a>
+    <a class="btn btn-default"a href="https://www.linkedin.com/in/steve-cloutier-a3ba99134/"target="blank">Linkedin</a><a class="btn btn-default"a href="https://www.freecodecamp.com/fcce3d0f6eb"target="blank">Free Code Camp</a>
+  </div>
+</div>
+<div class="PageTwo" id="p2">
+  <h2><b><em>Lucid Studio</b></em></h2>
+  <h4>  i'm a self taught Web Developer,designer who enjoys sharing tech with world</h4>
+</div>
+<div class="pageThree" id="p3">
+  <div class="row">
+    <div class="col-md-6">
+  <h4><b>PORTFOLIO</b></h4>
+    
+<innput type="text"placeholder="this is a palceholder text">
+  <img src="C:\Users\lunar\Documents\porps1.png">
+  <innput type="text"placeholder="this is a palceholder text">
+    <innput type="text"placeholder="this is a palceholder text">
+      <innput type="text"placeholder="this is a palceholder text">
+        <innput type="text"placeholder="this is a palceholder text">
+          </div>
+           </div>        
+</div>
+<div class="pagefour" id="p4">
+  <h1>Steven Cloutier</h1>
+  <h4>contact me at  <b><em> jade75empire@gmail.com</b></em></h4>
+</div>
+<!-- partial -->
+  
+</body>
+</html>
